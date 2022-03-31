@@ -1,1 +1,1 @@
-# LUX-Academy-ML-Marathon
+Data Science and Machine Learning Marathon Lux Tech Academy
